@@ -326,6 +326,7 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -651,7 +652,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: rgb(50, 50, 50)!important;
 }
 
 .container {
@@ -776,7 +777,7 @@ h4 {
 
 .tc-white {
     color: rgb(244, 172, 79)!important;
-    
+    ;
 }
 
 .btn-atomic-tangerine {
