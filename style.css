@@ -39,6 +39,7 @@ a:hover {
     position: relative;
 }
 
+
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
@@ -737,7 +738,8 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: rgba(255, 255, 255, .7)!important;
+    
 }
 
 .portfolio-thumb {
@@ -792,7 +794,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color:  rgb(244, 172, 79)!important;
 }
 
 .ltc-white:hover {
