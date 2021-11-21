@@ -101,7 +101,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(255, 255, 255, .9);
 }
 
 .d-bloc button:hover {
@@ -233,6 +233,9 @@ a:hover {
 .l-bloc h6 a,
 .l-bloc p a {
     color: rgba(0, 0, 0, .6);
+}
+.source{
+    color: black
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -738,7 +741,7 @@ h4 {
 }
 
 .white {
-    color: rgba(255, 255, 255, .7)!important;
+    color: rgba(255, 255, 255, .9)!important;
     
 }
 
@@ -1000,7 +1003,7 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-    
+
     .a-block {
         padding: 0 10px;
     }
