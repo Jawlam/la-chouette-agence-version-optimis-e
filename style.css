@@ -101,11 +101,12 @@ a:hover {
 }
 
 .d-bloc {
-    color: white;
+    color: rgba(255, 255, 255, .7);
 }
 
 .d-bloc button:hover {
     color: rgba(255, 255, 255, .9);
+    
 }
 
 .d-bloc .icon-round,
@@ -741,7 +742,8 @@ h4 {
 }
 
 .white {
-    color: white!important;
+    color: rgba(255, 255, 255, .7)!important;
+    
     
 }
 
