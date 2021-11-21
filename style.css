@@ -742,7 +742,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: rgba(255, 255, 255, .7)!important;
     
     
 }
