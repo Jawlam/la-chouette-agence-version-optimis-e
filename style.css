@@ -368,6 +368,11 @@ a:hover {
     z-index: 2;
 }
 
+.col-sm-4 li
+{
+padding: 8px;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -1007,7 +1012,8 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-
+    
+   
     .a-block {
         padding: 0 10px;
     }
